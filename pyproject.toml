@@ -1,0 +1,12 @@
+[project]
+name = "arena-test"
+version = "0.1.0"
+description = "Experimentation repo for the Arena Growth Intelligence Engine"
+requires-python = ">=3.10"
+dependencies = [
+    "sentence-transformers",
+    "chromadb==0.5.23",
+    "transformers>=4.57.0",
+    "qwen-vl-utils",
+    "torch",
+]
