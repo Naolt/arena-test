@@ -9,4 +9,8 @@ dependencies = [
     "transformers>=4.57.0",
     "qwen-vl-utils",
     "torch",
+    "pymupdf",
+    "python-pptx",
+    "opencv-python",
+    "Pillow",
 ]
